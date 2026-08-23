@@ -1,0 +1,25 @@
+# Documentation
+docs/
+
+# Screenshots / evidence
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Runtime logs
+logs/
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS/editor files
+.DS_Store
+*.swp
