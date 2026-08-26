@@ -110,8 +110,6 @@ elevator_socketcan/
 │   ├── diagnostic_ecu.py
 │   └── hmi.py
 |
-├── tests/
-|
 ├── .gitignore
 └── README.md
 ```
